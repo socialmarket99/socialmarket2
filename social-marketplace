@@ -1,0 +1,15 @@
+social-marketplace/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   │     ├── Login.jsx
+│   │     ├── ListingForm.jsx
+│   │     ├── ListingCard.jsx
+│   │
+│   ├── App.jsx
+│   ├── style.css
+│   └── main.jsx
+│
+├── package.json
